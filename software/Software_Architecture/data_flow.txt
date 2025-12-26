@@ -1,0 +1,13 @@
+Ultrasonic Sensor
+↓
+ESP32 (Fill Calculation)
+↓
+MQTT Publish
+↓
+MQTT Broker
+↓
+Backend Subscriber (C)
+↓
+Route Optimization (C)
+↓
+Dashboard
