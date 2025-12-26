@@ -2,15 +2,12 @@
 
 # Smart Waste Bin Monitoring System
 
-## Repository
-WM-Mounami Kalangi- Aanurag University
+## Language Used
+C (Embedded C + Backend C)
 
 ## Description
-IoT-based smart waste bin monitoring using ESP32, Ultrasonic sensor, MQTT, and cloud processing.
-
-## Folder Structure
-- Software: Backend, MQTT, routing
-- Hardware: ESP32 firmware and connections
+IoT-based smart waste bin monitoring using ESP32, ultrasonic sensor, MQTT,
+and route optimization logic.
 
 ## Author
 Mounami Kalangi
