@@ -1,0 +1,4 @@
+Ultrasonic TRIG -> GPIO 5
+Ultrasonic ECHO -> GPIO 18
+ESP32 VCC -> Battery/Solar
+GND -> Common Ground
